@@ -1,0 +1,8 @@
+{
+    "name": "TareaHTML",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "alejo",
+    "contributors": [],
+    "dependencies": {}
+}
